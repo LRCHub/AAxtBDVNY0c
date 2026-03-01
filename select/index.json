@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "ビリーヴ",
+  "base_artist": "シェネル",
+  "createdAt": "2026-03-01T01:19:43.990968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイ・ビリーヴ",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/01_アイ・ビリーヴ_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビリーヴ・イン・ザ・ファイト",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/02_ビリーヴ・イン・ザ・ファイト_Overkill.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トラスト・アンド・ビリーヴ",
+      "artist": "All That Remains",
+      "has_synced": false,
+      "path": "select/03_トラスト・アンド・ビリーヴ_All_That_Remains.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/04_ビリーヴ_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/05_ビリーヴ_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイ・ウィル・ビリーヴ・イット",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/06_アイ・ウィル・ビリーヴ・イット_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "Iyo Matsumoto",
+      "has_synced": true,
+      "path": "select/07_ビリーヴ_Iyo_Matsumoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ビリーヴ - Believe",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/08_ビリーヴ_-_Believe_Che'Nelle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ビリーヴ (English Ver．) - Believe (English Version)",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/09_ビリーヴ_(English_Ver.)_-_Believe_(English_Version)_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ビリーヴ (ロング・ヴァージョン) - Believe (Long Version)",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/10_ビリーヴ_(ロング・ヴァージョン)_-_Believe_(Long_Version)_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ビリーヴ - Believe",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/11_ビリーヴ_-_Believe_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/12_ビリーヴ_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ビリーヴ（ロング・ヴァージョン）",
+      "artist": "シェネル Che'Nelle",
+      "has_synced": true,
+      "path": "select/13_ビリーヴ(ロング・ヴァージョン)_シェネル_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/14_ビリーヴ_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle(シェネル)",
+      "has_synced": true,
+      "path": "select/15_ビリーヴ_Che'Nelle(シェネル).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believe",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_01_Believe_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ビリーヴ(アンプラグドVer.)",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_02_ビリーヴ(アンプラグドVer.)_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Believe",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_03_Believe_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_04_ビリーヴ_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Believe",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_05_Believe_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_06_ビリーヴ_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Believe (Long Version)",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_07_Believe_(Long_Version)_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_08_ビリーヴ_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_09_ビリーヴ_Che'Nelle.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ビリーヴ",
+      "artist": "Che'Nelle",
+      "has_synced": false,
+      "path": "select/pl_10_ビリーヴ_Che'Nelle.txt"
+    }
+  ]
+}
